@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[338],{8338:function(e,s,f){f.r(s),s.default={"for-drivers":"Для водителей","for-invest":"Для инвестиций"}}}]);
