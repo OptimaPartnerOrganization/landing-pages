@@ -1,4 +1,4 @@
-0:["hnnxdsFPuN5WamOrNFdEf",[[["",{"children":[["locale","ru","d"],{"children":["__PAGE__?{\"locale\":\"ru\"}",{}]},"$undefined","$undefined",true]}],"$L1",[null,"$L2"]]]]
+0:["fnZBpHiK4rnCto-FsirIM",[[["",{"children":[["locale","ru","d"],{"children":["__PAGE__?{\"locale\":\"ru\"}",{}]},"$undefined","$undefined",true]}],"$L1",[null,"$L2"]]]]
 3:I[6954,[],""]
 4:I[7264,[],""]
 5:I[239,["883","static/chunks/883-566b860bbe4fac49.js","938","static/chunks/938-f507409dc77530b2.js","203","static/chunks/app/%5Blocale%5D/layout-9b8721889f663c75.js"],""]
